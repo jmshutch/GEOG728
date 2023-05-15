@@ -2,7 +2,7 @@
 Jupyter Notebooks supporting my class GEOG 728 Programming for Geographic Analysis (Python) at Kansas State University.
 
 ## Notebook Index
-1. Creating a GitHub Account
+- Creating a GitHub Account
   - Do this exercise
 3. Creating a GitHub Repository
 4. Using the Markdown Language
