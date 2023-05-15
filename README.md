@@ -1,5 +1,5 @@
-# GEOG728
-Jupyter Notebooks supporting my class GEOG 728 Programming for Geographic Analysis 
+# GEOG 728 Programming for Geographic Analysis - Python
+Jupyter Notebooks supporting my class GEOG 728 Programming for Geographic Analysis (Python) at Kansas State University.
 
 # Index
 
