@@ -1,7 +1,7 @@
 # GEOG 728 Programming for Geographic Analysis
 Jupyter Notebooks supporting my class GEOG 728 Programming for Geographic Analysis (Python) at Kansas State University.
 
-## Index
+## Notebook Index
 1. Creating a GitHub Account
 2. Using the Markdown Language
 3. Installing Miniconda and Jupyter Notebook
