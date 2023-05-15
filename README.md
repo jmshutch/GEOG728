@@ -7,7 +7,7 @@ Jupyter Notebooks supporting my class GEOG 728 Programming for Geographic Analys
   - Work with Repositories
 4. Using the Markdown Language
 5. Installing Miniconda and Jupyter Notebook
-6. [Using Jupyter Notebook](https://nbviewer.jupyter.org/github/jmshutch/GEOG728/blob/main/01-What-is-the-Jupyter-Notebook.ipynb)
+6. [Using Jupyter Notebook](nbviewer.jupyter.org/github/jmshutch/GEOG728/blob/main/01-What-is-the-Jupyter-Notebook.ipynb)
 7. Whirlwind Tour of Python
 
 ## License and Citation
